@@ -1,0 +1,20 @@
+[
+	{
+		"id" : 1,
+		"name" : "Nguyễn Thanh Tùng",
+		"tel" : "0167476885",
+		"permission" : 1
+	},
+	{
+		"id" : 2,
+		"name" : "Hồng Chiêu Thái",
+		"tel" : "0167476885",
+		"permission" : 2
+	},
+	{
+		"id" : 3,
+		"name" : "Nguyen Trường Giang",
+		"tel" : "0167476885",
+		"permission" : 3
+	}
+]
